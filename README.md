@@ -9,7 +9,7 @@ The purpose of this analysis is to summarize outcomes of campaigns worldwide bas
 2) The outcomes of all plays worldwide based on the funding goals
 
 ## Analysis and Challenges
-Data from Kickstarters worldwide was used for all analyzes. As the outcomes of interest was for all completed studies, data for live campaigns were excluded. A subset of the data was created ("Completed" in Kickstarter_Challenge.xlsx). Raw data and summaries available at: https://github.com/DALeske/Kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+Data from Kickstarters worldwide was used for all analyzes. As the outcomes of interest was for all completed studies, data for live campaigns were excluded. A subset of the data was created ("Completed" in Kickstarter_Challenge.xlsx). Raw data and summaries available for download at: https://github.com/DALeske/Kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
  
 ### Analysis of Outcomes Based on Launch Date
 For the analysis of outcomes based on launch dates, data from the theater campaign category (including all subcategories) classified as successful, failed, or canceled were included. Data from campaigns that were active (live) at the time of this report were excluded. The analysis provides a look at the absolute number of campaigns classified as successful, failed, or canceled for the month of the year they were launched. Data is presented in tabular form and as a line graph.  
